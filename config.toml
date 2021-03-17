@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-bseURL = ""
+baseURL = ""
 languageCode = "en"
 title = "Dvadino"
 theme = "hargo"
